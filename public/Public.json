@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.postimg.cc/example1.png",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Dog Grooming & Bathing",
+    "providerName": "Furry Friends Groomers",
+    "providerEmail": "contact@furryfriends.com",
+    "price": 40,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Full grooming services including bath, haircut, nail trimming, and ear cleaning.",
+    "image": "https://i.postimg.cc/example2.png",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Pet Photography Session",
+    "providerName": "Pawfect Shots",
+    "providerEmail": "hello@pawfectshots.com",
+    "price": 60,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional photoshoot for your furry friend with props and custom backgrounds.",
+    "image": "https://i.postimg.cc/example3.png",
+    "category": "Photography"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Dog Walking & Exercise",
+    "providerName": "Active Paws",
+    "providerEmail": "walks@activepaws.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 8,
+    "description": "Daily walks and exercise sessions to keep your dog healthy and happy.",
+    "image": "https://i.postimg.cc/example4.png",
+    "category": "Fitness"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Puppy Training Classes",
+    "providerName": "Smart Paws Academy",
+    "providerEmail": "training@smartpaws.com",
+    "price": 50,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Basic obedience and socialization classes for puppies aged 2-6 months.",
+    "image": "https://i.postimg.cc/example5.png",
+    "category": "Training"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Pet Massage Therapy",
+    "providerName": "Relaxed Paws",
+    "providerEmail": "massage@relaxedpaws.com",
+    "price": 35,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Gentle massage therapy to relieve stress and improve circulation in pets.",
+    "image": "https://i.postimg.cc/example6.png",
+    "category": "Wellness"
+  }
+]
